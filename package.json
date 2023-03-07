@@ -1,0 +1,27 @@
+{
+	"name": "fullstackopen-part3",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js",
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CastillejaCode/fullstackopen-part3.git"
+	},
+	"author": "Julian Krzysiak",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/CastillejaCode/fullstackopen-part3/issues"
+	},
+	"homepage": "https://github.com/CastillejaCode/fullstackopen-part3#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.21"
+	},
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
